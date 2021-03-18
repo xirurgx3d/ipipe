@@ -1,0 +1,170 @@
+[
+  {
+    "serv_icon":"E3.1",
+    "serv_name":"Intel E3-1230v5 3.40 GHz 4C/8T",
+    "DDR":"RAM 32 Gb DDR4",
+    "HDD":["SSD 1: 240 Gb","SSD 2: 240 Gb"],
+    "siti":"Москва",
+    "tags":["New","IPMI"],
+    "sistem":{
+      "pres_id":"2",
+      "title":"Ubuntu 16.04 LTS, 64bit",
+      "id":"sistem",
+      "sist":["без панели управления","Webmin","Vesta"]
+    },
+    "panel":{
+      "title":"Webmin",
+      "price":"0",
+      "id":"panel",
+      "sist":["Debian v.9 (64 bit)","Ubuntu 16.04 LTS, 64bit","CentOS 7, 64bit"]
+    },
+    "RAIDsetup":"Drives in RAID1",
+    "price":"18102",
+    "mous":"1 мес",
+    "panelarr":[
+      {
+        "title":"без панели управления",
+        "price":"0",
+        "id":"panel",
+        "sist":["Debian v.9 (64 bit)","Ubuntu 16.04 LTS, 64bit","CentOS 7, 64bit","CentOS 6, 64bit"]
+      },
+      {
+        "title":"Webmin",
+        "price":"0",
+        "id":"panel",
+        "sist":["Debian v.9 (64 bit)","Ubuntu 16.04 LTS, 64bit","CentOS 7, 64bit"]
+      },
+      {
+        "title":"Vesta",
+        "price":"0",
+        "id":"panel",
+        "sist":["Debian v.9 (64 bit)","Ubuntu 16.04 LTS, 64bit","CentOS 7, 64bit"]
+      },
+      {
+        "title":"ISPmanager 5 Lite",
+        "price":"277",
+        "id":"panel",
+        "sist":["Debian v.9 (64 bit)","CentOS 7, 64bit"]
+      },
+
+      {
+        "title":"cPanel (VPS)",
+        "price":"1110",
+        "id":"panel",
+        "sist":["CentOS 6, 64bit","CentOS 7, 64bit"]
+      }
+    ],
+    "sistemarr":[
+      {
+        "pres_id":"1",
+        "title":"Debian v.9 (64 bit)",
+        "id":"sistem",
+        "sist":["без панели управления","Webmin","Vesta","ISPmanager 5 Lite"]
+      },
+      {
+        "pres_id":"2",
+        "title":"Ubuntu 16.04 LTS, 64bit",
+        "id":"sistem",
+        "sist":["без панели управления","Webmin","Vesta"]
+      },
+      {
+        "pres_id":"3",
+        "title":"CentOS 6, 64bit",
+        "id":"sistem",
+        "sist":["без панели управления","cPanel (VPS)"]
+      },
+      {
+        "pres_id":"4",
+        "title":"CentOS 7, 64bit",
+        "id":"sistem",
+        "sist":["без панели управления","Webmin","Vesta","ISPmanager 5 Lite","cPanel (VPS)"]
+      }
+
+    ]
+
+
+  },
+  {
+    "serv_icon":"E3.3",
+    "serv_name":"Intel Xeon E5-2670v3 12C/ 24T 2.3 Ghz",
+    "DDR":"RAM 128 Gb DDR4",
+    "HDD":["HDD 1: 500 Gb","HDD 2: 500 Gb"],
+    "siti":"Москва",
+    "tags":["Акция","IPMI","Sale","Best"],
+    "sistem":{
+      "pres_id":"3",
+      "title":"CentOS 6, 64bit",
+      "id":"sistem",
+      "sist":["без панели управления","cPanel (VPS)"]
+    },
+    "panel":{
+      "title":"ISPmanager 5 Lite",
+      "price":"277",
+      "id":"panel",
+      "sist":["Debian v.9 (64 bit)","CentOS 7, 64bit"]
+    },
+    "RAIDsetup":"Second drive is backup",
+    "price":"20456",
+    "mous":"1 мес",
+    "panelarr":[
+      {
+        "title":"без панели управления",
+        "price":"0",
+        "id":"panel",
+        "sist":["Debian v.9 (64 bit)","Ubuntu 16.04 LTS, 64bit","CentOS 7, 64bit","CentOS 6, 64bit"]
+      },
+      {
+        "title":"Webmin",
+        "price":"0",
+        "id":"panel",
+        "sist":["Debian v.9 (64 bit)","Ubuntu 16.04 LTS, 64bit","CentOS 7, 64bit"]
+      },
+      {
+        "title":"Vesta",
+        "price":"0",
+        "id":"panel",
+        "sist":["Debian v.9 (64 bit)","Ubuntu 16.04 LTS, 64bit","CentOS 7, 64bit"]
+      },
+      {
+        "title":"ISPmanager 5 Lite",
+        "price":"277",
+        "id":"panel",
+        "sist":["Debian v.9 (64 bit)","CentOS 7, 64bit"]
+      },
+
+      {
+        "title":"cPanel (VPS)",
+        "price":"1110",
+        "id":"panel",
+        "sist":["CentOS 6, 64bit","CentOS 7, 64bit"]
+      }
+    ],
+    "sistemarr":[
+      {
+        "pres_id":"1",
+        "title":"Debian v.9 (64 bit)",
+        "id":"sistem",
+        "sist":["без панели управления","Webmin","Vesta","ISPmanager 5 Lite"]
+      },
+      {
+        "pres_id":"2",
+        "title":"Ubuntu 16.04 LTS, 64bit",
+        "id":"sistem",
+        "sist":["без панели управления","Webmin","Vesta"]
+      },
+      {
+        "pres_id":"3",
+        "title":"CentOS 6, 64bit",
+        "id":"sistem",
+        "sist":["без панели управления","cPanel (VPS)"]
+      },
+      {
+        "pres_id":"4",
+        "title":"CentOS 7, 64bit",
+        "id":"sistem",
+        "sist":["без панели управления","Webmin","Vesta","ISPmanager 5 Lite","cPanel (VPS)"]
+      }
+
+    ]
+  }
+]

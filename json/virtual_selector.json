@@ -1,0 +1,62 @@
+{
+  "sistem":[
+    {
+      "pres_id":"1",
+      "title":"Debian v.9 (64 bit)",
+      "id":"sistem",
+      "sist":["без панели управления","Webmin","Vesta","ISPmanager 5 Lite"]
+    },
+    {
+      "pres_id":"2",
+      "title":"Ubuntu 16.04 LTS, 64bit",
+      "id":"sistem",
+      "sist":["без панели управления","Webmin","Vesta"]
+    },
+    {
+      "pres_id":"3",
+      "title":"CentOS 6, 64bit",
+      "id":"sistem",
+      "sist":["без панели управления","cPanel (VPS)"]
+    },
+    {
+      "pres_id":"4",
+      "title":"CentOS 7, 64bit",
+      "id":"sistem",
+      "sist":["без панели управления","Webmin","Vesta","ISPmanager 5 Lite","cPanel (VPS)"]
+    }
+
+  ],
+  "panel":[
+    {
+      "title":"без панели управления",
+      "price":"0",
+      "id":"panel",
+      "sist":["Debian v.9 (64 bit)","Ubuntu 16.04 LTS, 64bit","CentOS 7, 64bit","CentOS 6, 64bit"]
+    },
+    {
+      "title":"Webmin",
+      "price":"0",
+      "id":"panel",
+      "sist":["Debian v.9 (64 bit)","Ubuntu 16.04 LTS, 64bit","CentOS 7, 64bit"]
+    },
+    {
+      "title":"Vesta",
+      "price":"0",
+      "id":"panel",
+      "sist":["Debian v.9 (64 bit)","Ubuntu 16.04 LTS, 64bit","CentOS 7, 64bit"]
+    },
+    {
+      "title":"ISPmanager 5 Lite",
+      "price":"277",
+      "id":"panel",
+      "sist":["Debian v.9 (64 bit)","CentOS 7, 64bit"]
+    },
+
+    {
+      "title":"cPanel (VPS)",
+      "price":"1110",
+      "id":"panel",
+      "sist":["CentOS 6, 64bit","CentOS 7, 64bit"]
+    }
+  ]
+}

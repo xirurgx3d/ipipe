@@ -1,0 +1,184 @@
+{
+  "61":[
+    {
+      "mous":"1",
+      "price":"105",
+      "bonus":[
+        "SSL-сертификат Let`s Encrypt"
+      ]
+    },
+    {
+      "mous":"6",
+      "price":"100",
+      "fullodl":"630",
+      "full":"600",
+      "scidon":"(-5%)",
+      "ekonom":"30",
+      "bonus":[
+        "SSL-сертификат Let`s Encrypt"
+      ]
+    },
+    {
+      "mous":"12",
+      "price":"90",
+      "fullodl":"1260",
+      "full":"1080",
+      "scidon":"(-15%)",
+      "ekonom":"180",
+      "bonus":[
+        "SSL-сертификат Let`s Encrypt"
+      ]
+    },
+    {
+      "mous":"36",
+      "price":"79",
+      "fullodl":"3780",
+      "full":"2844",
+      "scidon":"(-25%)",
+      "ekonom":"936",
+      "bonus":[
+        "SSL-сертификат Let`s Encrypt"
+      ]
+    }
+  ],
+  "62":[
+    {
+      "mous":"1",
+      "price":"211",
+      "bonus":[
+        "SSL-сертификат Let`s Encrypt"
+      ]
+    },
+    {
+      "mous":"6",
+      "price":"201",
+      "fullodl":"1266",
+      "full":"1206",
+      "scidon":"(-5%)",
+      "ekonom":"60",
+      "bonus":[
+        "SSL-сертификат Let`s Encrypt"
+      ]
+    },
+    {
+      "mous":"12",
+      "price":"180",
+      "fullodl":"2532",
+      "full":"2160",
+      "scidon":"(-15%)",
+      "ekonom":"372",
+      "bonus":[
+        "SSL-сертификат Let`s Encrypt",
+        "Домен .ru / .рф / .su"
+      ]
+    },
+    {
+      "mous":"36",
+      "price":"158",
+      "fullodl":"7596",
+      "full":"5688",
+      "scidon":"(-25%)",
+      "ekonom":"1908",
+      "bonus":[
+        "SSL-сертификат Let`s Encrypt",
+        "2 домена .ru / .рф / .su"
+      ]
+    }
+  ],
+  "63":[
+    {
+      "mous":"1",
+      "price":"405",
+      "bonus":[
+        "SSL-сертификат Let`s Encrypt",
+        "Выделенный IP"
+      ]
+    },
+    {
+      "mous":"6",
+      "price":"385",
+      "fullodl":"2430",
+      "full":"2310",
+      "scidon":"(-5%)",
+      "ekonom":"120",
+      "bonus":[
+        "SSL-сертификат Let`s Encrypt",
+        "Выделенный IP"
+      ]
+    },
+    {
+      "mous":"12",
+      "price":"345",
+      "fullodl":"4860",
+      "full":"4140",
+      "scidon":"(-15%)",
+      "ekonom":"720",
+      "bonus":[
+        "SSL-сертификат Let`s Encrypt",
+        "Выделенный IP",
+        "2 домена .ru / .рф / .su"
+      ]
+    },
+    {
+      "mous":"36",
+      "price":"304",
+      "fullodl":"14580",
+      "full":"10944",
+      "scidon":"(-25%)",
+      "ekonom":"3636",
+      "bonus":[
+        "SSL-сертификат Let`s Encrypt",
+        "Выделенный IP",
+        "4 домена .ru / .рф / .su"
+      ]
+    }
+  ],
+  "64":[
+    {
+      "mous":"1",
+      "price":"458",
+      "bonus":[
+        "SSL-сертификат Let`s Encrypt",
+        "Выделенный IP"
+      ]
+    },
+    {
+      "mous":"6",
+      "price":"435",
+      "fullodl":"2748",
+      "full":"2610",
+      "scidon":"(-5%)",
+      "ekonom":"138",
+      "bonus":[
+        "SSL-сертификат Let`s Encrypt",
+        "Выделенный IP"
+      ]
+    },
+    {
+      "mous":"12",
+      "price":"390",
+      "fullodl":"5496",
+      "full":"4680",
+      "scidon":"(-15%)",
+      "ekonom":"816",
+      "bonus":[
+        "SSL-сертификат Let`s Encrypt",
+        "Выделенный IP",
+        "2 домена .ru / .рф / .su"
+      ]
+    },
+    {
+      "mous":"36",
+      "price":"344",
+      "fullodl":"16488",
+      "full":"12384",
+      "scidon":"(-25%)",
+      "ekonom":"4104",
+      "bonus":[
+        "SSL-сертификат Let`s Encrypt",
+        "Выделенный IP",
+        "4 домена .ru / .рф / .su"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,172 @@
+{
+  "RAIDsetup":[
+    {
+      "pres_id":"1",
+      "title":"Drives in RAID1",
+      "id":"RAIDsetup"
+    },
+    {
+      "pres_id":"2",
+      "title":"Second drive is backup",
+      "id":"RAIDsetup"
+    }
+
+  ],
+  "panel":[
+    {
+      "title":"без панели управления",
+      "price":"0",
+      "id":"panel"
+    },
+    {
+      "title":"Webmin",
+      "price":"0",
+      "id":"panel"
+    },
+    {
+      "title":"Vesta",
+      "price":"0",
+      "id":"panel"
+    },
+    {
+      "title":"ISPmanager 5 Lite",
+      "price":"277",
+      "id":"panel",
+      "no":["CentOS 6, 64bit", "Ubuntu 16.04 LTS, 64bit"]
+    },
+
+    {
+      "title":"cPanel (VPS)",
+      "price":"1110",
+      "id":"panel",
+      "no":["Debian", "Ubuntu 16.04 LTS, 64bit"]
+    }
+  ],
+  "cpu_one":[
+    {
+      "title":"Intel Xeon E5-2620v3 6C/12T 2.4 GHz",
+      "price":" 1646",
+      "id":"cpu_one"
+    },
+    {
+      "title":"Intel Xeon E5-2630v3 8C/16T 2.4 Ghz",
+      "price":" 2658",
+      "id":"cpu_one"
+    },
+    {
+      "title":"Intel Xeon E5-2650v3 10C/20T 2.3 Ghz",
+      "price":" 4590",
+      "id":"cpu_one"
+    }
+  ],
+  "cpu_mult":[
+    {
+      "title":"4х Intel Xeon E5-4603 Processor 4 Core 2.0 GHz",
+      "price":"10800",
+      "id":"cpu_one"
+    },
+    {
+      "title":"4х Intel Xeon E5-4607 Processor 6 Core 2.2 GHz",
+      "price":"17334",
+      "id":"cpu_one"
+    },
+    {
+      "title":"4х Intel Xeon E5-4610 Processor 6 Core 2.4 GHz",
+      "price":"23907",
+      "id":"cpu_one"
+    }
+  ],
+  "hdd":[
+    {
+      "title":"1Tb SATA3 6Gbs",
+      "price":"925",
+      "id":"hdd"
+    },
+    {
+      "title":"2Tb SATA3 6Gbps",
+      "price":" 1211",
+      "id":"hdd"
+    },
+    {
+      "title":"4Tb SATA3 6Gbps",
+      "price":"1966",
+      "id":"hdd"
+    },
+    {
+      "title":"240GB Intel SSD",
+      "price":" 2244",
+      "id":"hdd"
+    },
+    {
+      "title":"480GB Intel SSD",
+      "price":"4148",
+      "id":"hdd"
+    }
+  ],
+  "ram_one":[
+    {
+      "title":"32GB DDR4",
+      "price":" 2154",
+      "id":"ram"
+    },
+    {
+      "title":"64GB DDR4",
+      "price":" 4307",
+      "id":"ram"
+    },
+    {
+      "title":"128GB DDR4",
+      "price":"  8614",
+      "id":"ram"
+    },
+    {
+      "title":"256GB DDR4",
+      "price":"  17227",
+      "id":"ram"
+    },
+    {
+      "title":"512GB DDR4",
+      "price":"  34454",
+      "id":"ram"
+    }
+  ],
+  "ram_mult":[
+    {
+      "title":"32GB DDR4",
+      "price":" 2154",
+      "id":"ram"
+    },
+    {
+      "title":"64GB DDR4",
+      "price":" 4307",
+      "id":"ram"
+    },
+    {
+      "title":"128GB DDR4",
+      "price":"8614",
+      "id":"ram"
+    },
+    {
+      "title":"256GB DDR4",
+      "price":"17227",
+      "id":"ram"
+    },
+    {
+      "title":"128GB DDR3 1666Mhz",
+      "price":"120320",
+      "id":"ram"
+    }
+  ],
+  "raid":[
+    {
+      "title":"SATA RAID on Motherboard",
+      "price":"0",
+      "id":"raid"
+    },
+    {
+      "title":"RAID 9631-4i 1-pt SAS3 1Gb DDR3 PCIe 3.0 SDL",
+      "price":"3924",
+      "id":"raid"
+    }
+  ]
+}
